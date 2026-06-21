@@ -1,0 +1,15 @@
+C:\Users\raaat\Learning\CSHARP\Day2\Day2App\bin\Debug\net8.0\Day2App.exe
+C:\Users\raaat\Learning\CSHARP\Day2\Day2App\bin\Debug\net8.0\Day2App.deps.json
+C:\Users\raaat\Learning\CSHARP\Day2\Day2App\bin\Debug\net8.0\Day2App.runtimeconfig.json
+C:\Users\raaat\Learning\CSHARP\Day2\Day2App\bin\Debug\net8.0\Day2App.dll
+C:\Users\raaat\Learning\CSHARP\Day2\Day2App\bin\Debug\net8.0\Day2App.pdb
+C:\Users\raaat\Learning\CSHARP\Day2\Day2App\obj\Debug\net8.0\Day2App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raaat\Learning\CSHARP\Day2\Day2App\obj\Debug\net8.0\Day2App.AssemblyInfoInputs.cache
+C:\Users\raaat\Learning\CSHARP\Day2\Day2App\obj\Debug\net8.0\Day2App.AssemblyInfo.cs
+C:\Users\raaat\Learning\CSHARP\Day2\Day2App\obj\Debug\net8.0\Day2App.csproj.CoreCompileInputs.cache
+C:\Users\raaat\Learning\CSHARP\Day2\Day2App\obj\Debug\net8.0\Day2App.sourcelink.json
+C:\Users\raaat\Learning\CSHARP\Day2\Day2App\obj\Debug\net8.0\Day2App.dll
+C:\Users\raaat\Learning\CSHARP\Day2\Day2App\obj\Debug\net8.0\refint\Day2App.dll
+C:\Users\raaat\Learning\CSHARP\Day2\Day2App\obj\Debug\net8.0\Day2App.pdb
+C:\Users\raaat\Learning\CSHARP\Day2\Day2App\obj\Debug\net8.0\Day2App.genruntimeconfig.cache
+C:\Users\raaat\Learning\CSHARP\Day2\Day2App\obj\Debug\net8.0\ref\Day2App.dll

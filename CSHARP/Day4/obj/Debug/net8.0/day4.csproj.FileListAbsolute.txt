@@ -1,0 +1,15 @@
+C:\Users\raaat\Learning\CSHARP\Day4\bin\Debug\net8.0\day4.exe
+C:\Users\raaat\Learning\CSHARP\Day4\bin\Debug\net8.0\day4.deps.json
+C:\Users\raaat\Learning\CSHARP\Day4\bin\Debug\net8.0\day4.runtimeconfig.json
+C:\Users\raaat\Learning\CSHARP\Day4\bin\Debug\net8.0\day4.dll
+C:\Users\raaat\Learning\CSHARP\Day4\bin\Debug\net8.0\day4.pdb
+C:\Users\raaat\Learning\CSHARP\Day4\obj\Debug\net8.0\day4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raaat\Learning\CSHARP\Day4\obj\Debug\net8.0\day4.AssemblyInfoInputs.cache
+C:\Users\raaat\Learning\CSHARP\Day4\obj\Debug\net8.0\day4.AssemblyInfo.cs
+C:\Users\raaat\Learning\CSHARP\Day4\obj\Debug\net8.0\day4.csproj.CoreCompileInputs.cache
+C:\Users\raaat\Learning\CSHARP\Day4\obj\Debug\net8.0\day4.sourcelink.json
+C:\Users\raaat\Learning\CSHARP\Day4\obj\Debug\net8.0\day4.dll
+C:\Users\raaat\Learning\CSHARP\Day4\obj\Debug\net8.0\refint\day4.dll
+C:\Users\raaat\Learning\CSHARP\Day4\obj\Debug\net8.0\day4.pdb
+C:\Users\raaat\Learning\CSHARP\Day4\obj\Debug\net8.0\day4.genruntimeconfig.cache
+C:\Users\raaat\Learning\CSHARP\Day4\obj\Debug\net8.0\ref\day4.dll

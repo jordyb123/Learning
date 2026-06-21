@@ -1,0 +1,15 @@
+C:\Users\raaat\Learning\CSHARP\Day1\Day1App\bin\Debug\net8.0\Day1App.exe
+C:\Users\raaat\Learning\CSHARP\Day1\Day1App\bin\Debug\net8.0\Day1App.deps.json
+C:\Users\raaat\Learning\CSHARP\Day1\Day1App\bin\Debug\net8.0\Day1App.runtimeconfig.json
+C:\Users\raaat\Learning\CSHARP\Day1\Day1App\bin\Debug\net8.0\Day1App.dll
+C:\Users\raaat\Learning\CSHARP\Day1\Day1App\bin\Debug\net8.0\Day1App.pdb
+C:\Users\raaat\Learning\CSHARP\Day1\Day1App\obj\Debug\net8.0\Day1App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raaat\Learning\CSHARP\Day1\Day1App\obj\Debug\net8.0\Day1App.AssemblyInfoInputs.cache
+C:\Users\raaat\Learning\CSHARP\Day1\Day1App\obj\Debug\net8.0\Day1App.AssemblyInfo.cs
+C:\Users\raaat\Learning\CSHARP\Day1\Day1App\obj\Debug\net8.0\Day1App.csproj.CoreCompileInputs.cache
+C:\Users\raaat\Learning\CSHARP\Day1\Day1App\obj\Debug\net8.0\Day1App.sourcelink.json
+C:\Users\raaat\Learning\CSHARP\Day1\Day1App\obj\Debug\net8.0\Day1App.dll
+C:\Users\raaat\Learning\CSHARP\Day1\Day1App\obj\Debug\net8.0\refint\Day1App.dll
+C:\Users\raaat\Learning\CSHARP\Day1\Day1App\obj\Debug\net8.0\Day1App.pdb
+C:\Users\raaat\Learning\CSHARP\Day1\Day1App\obj\Debug\net8.0\Day1App.genruntimeconfig.cache
+C:\Users\raaat\Learning\CSHARP\Day1\Day1App\obj\Debug\net8.0\ref\Day1App.dll
