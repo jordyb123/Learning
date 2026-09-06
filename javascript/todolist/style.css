@@ -1,0 +1,11 @@
+.delete-btn {
+margin-left: 10px;
+padding: 2px 6px;
+font-size: 0.8rem;
+cursor: pointer;
+}
+
+.completed {
+    text-decoration: line-through;
+    opacity: 0.7;
+}
